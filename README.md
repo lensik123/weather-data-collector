@@ -13,7 +13,6 @@ Weather Data Collector — это веб-приложение для сбора 
 - Jakarta EE
 - PostgreSQL (или любая другая база данных)
 
-## Структура проекта
 
 ### Контроллеры
 
@@ -31,4 +30,3 @@ Weather Data Collector — это веб-приложение для сбора 
 
    - **POST `/sensor/registration`**: Регистрирует новый сенсор.
 
-### DTO (Data Transfer Objects)
